@@ -1,0 +1,30 @@
+
+.kolom1{
+    padding: 10px;
+    height: auto;
+    width:  200px;
+    display: inline-block;
+    background-color: whitesmoke;
+}
+
+.kolom2{
+    height: auto;
+    width: 584px;
+    display: inline-block;
+    background-color: white;
+}
+
+footer {
+    margin-left: 250px;
+    display: flex;
+    width: 784px;
+    height: 100px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
